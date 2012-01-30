@@ -7,6 +7,7 @@
 //
 
 #import "PSAppDelegate.h"
+#import "TaskInfo.h"
 
 @implementation PSAppDelegate
 
